@@ -1,6 +1,6 @@
 # Comunidad de Analítica e Interoperabilidad del Distrito
 <div style="text-align:center">
-    <img src='imagenes/logo-bogota.jpg' style="width:50%;" />
+    <img src='imagenes/logo-bogota.jpg' style="width:50%;text-align:center;" />
 </div>
 
 ## Propósito de la Comunidad de Analítica e Interoperabilidad
