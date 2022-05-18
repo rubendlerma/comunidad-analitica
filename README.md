@@ -8,8 +8,10 @@ Apoyar procesos de transformación digital en las entidades del distrito capital
 <img src='imagenes/proposito-comunidad.png' />
 
 ## Objetivos de la Comunidad de Analítica e Interoperabilidad
-<img src='imagenes/objetivo-comunidad-1.png' />
-<img src='imagenes/objetivo-comunidad-2.png' />
+<p align="center">
+    <img src='imagenes/objetivo-comunidad-1.png' style="width:50%;text-align:center;" />
+    <img src='imagenes/objetivo-comunidad-2.png' style="width:50%;text-align:center;" />
+</p>
 
 ## Propuesta de valor de la Comunidad de Analítica e Interoperabilidad del Distrito
 La comunidad será un espacio colaborativo, dinámico y seguro para:
