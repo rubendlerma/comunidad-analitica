@@ -22,10 +22,21 @@ Co-crear soluciones a necesidades comunes de las entidades del distrito.
 La comunidad será un espacio colaborativo, dinámico y seguro para:
 
 Generar redes de conocimiento, compartir experiencias y adquirir las capacidades necesarias por parte de los colaboradores de las entidades del distrito, para el desarrollo de proyectos de interoperabilidad que ayuden a mejorar los servicios que ofrecen y llegar a tener una visión integral de los servicios públicos y privados, de las interacciones entre las entidades, y entre estas y la ciudadanía.
-<p align="center">
-    <img src='imagenes/valor-1.png' style="width:50%;text-align:center;" />
-    <img src='imagenes/valor-2.png' style="width:50%;text-align:center;" />
-</p>
+
+<table>
+    <tr>
+        <td>
+            <p align="center">
+                <img src='imagenes/valor-1.png' style="width:90%;text-align:center;" />
+            </p>
+        </td>
+        <td>
+            <p align="center">
+                <img src='imagenes/valor-2.png' style="width:90%;text-align:center;" />
+            </p>
+        </td>
+    </tr>
+</table>
 
 ## Audiencia de la Comunidad de Analítica e Interoperabilidad
 En general, corresponden a las Entidades distritales: Servidores públicos y colaboradores de diferentes sectores del distrito y de áreas interdisciplinarias tales como planeación, comunicación, información, datos, investigación, funcionales, tecnología, interesados o relacionados con actividades de intercambio de información con otras entidades.
