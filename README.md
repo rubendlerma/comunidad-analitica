@@ -64,12 +64,17 @@ Estamos comprometidos con el cumplimiento de nuestros lineamientos y alentamos a
             <p>- Participar activamente y hacer preguntas sobre los temas que atañen a la comunidad.  
             Utilizar mensajes (posts) cortos y con palabras claves que faciliten su búsqueda o referencia.</p>
             <p>- Ser positivos al dar me gusta, compartir y comentar las conversaciones. Ofrecer críticas con respeto y tener en cuenta el tono del lenguaje usado. </p>
-            <p>-Mantener los temas privados o confidenciales en privado.</p>
-            <p>-Verificar antes de hacer una publicación, es posible que alguien ya haya publicado algo similar.</p>
-            <p>-Responder a las menciones (@mention) y etiquetar a otras personas que puedan tener información para contribuir.</p>
+            <p>- Mantener los temas privados o confidenciales en privado.</p>
+            <p>- Verificar antes de hacer una publicación, es posible que alguien ya haya publicado algo similar.</p>
+            <p>- Responder a las menciones (@mention) y etiquetar a otras personas que puedan tener información para contribuir.</p>
         </td>
         <td>
-            ddd
+            <p>- Publicar material o información que no sea de fuente primaria o verificada.</p>
+            <p>- Realizar solicitudes (PQRS) para las cuales cada entidad cuenta con unos mecanismos formales establecidos.</p>
+            <p>- Usar lenguaje degradante, acosador, violento o discriminatorio, inclusive chistes o bromas que puedan llegar a ser ofensivos.</p> 
+            <p>- Avergonzar públicamente a las personas, incluidos comentarios no apropiados sobre temas personales o laborales y/o relacionados con el género, la orientación sexual, la raza, la religión o la discapacidad.</p>
+            <p>- Generar discusiones alrededor de temas de política o religión.</p>
+            <p>- Publicar material (documentos, comentarios, imágenes) con contenido inapropiado o no relacionado con los temas centrales de la comunidad.</p>
         </td>
     </tr>
 </table>
