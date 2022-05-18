@@ -1,7 +1,7 @@
 # Comunidad de Analítica e Interoperabilidad del Distrito
-<div style="text-align:center">
+<p align="center">
     <img src='imagenes/logo-bogota.jpg' style="width:50%;text-align:center;" />
-</div>
+</p>
 
 ## Propósito de la Comunidad de Analítica e Interoperabilidad
 Apoyar procesos de transformación digital en las entidades del distrito capital, en temas relacionados con datos, analítica e interoperabilidad, en un ambiente colaborativo, seguro y de respeto.
