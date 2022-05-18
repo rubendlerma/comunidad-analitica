@@ -23,7 +23,7 @@ La comunidad será un espacio colaborativo, dinámico y seguro para:
 
 Generar redes de conocimiento, compartir experiencias y adquirir las capacidades necesarias por parte de los colaboradores de las entidades del distrito, para el desarrollo de proyectos de interoperabilidad que ayuden a mejorar los servicios que ofrecen y llegar a tener una visión integral de los servicios públicos y privados, de las interacciones entre las entidades, y entre estas y la ciudadanía.
 
-<table>
+<table style="border: none;">
     <tr>
         <td>
             <p align="center">
