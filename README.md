@@ -47,13 +47,33 @@ https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-184wrvjno-reoqs~pC
 Se conecta con un repositorio en GitHub para gestionar la documentación que se genere en la comunidad
 
 ## Lineamientos* de la Comunidad de Analítica del Distrito (Código de Conducta)
--
-Table
 Estamos comprometidos con el cumplimiento de nuestros lineamientos y alentamos a la comunidad a que comunique cualquier falta o situación que vaya en contra de este código de conducta.
-<img src='imagenes/lineamientos-1.png' />
-<img src='imagenes/lineamientos-2.png' />
 
-## Metas de la Comunidad de Analítica e Interoperabilidad 
-Las siguientes corresponden a las metas de la Estrategia de Uso y Apropiación de la Comunidad de Interoperabilidad para la vigencia 2022:
+<table style="border:none;">
+    <tr>
+        <th>
+            Qué se puede hacer
+        </th>
+        <th>
+            Qué no se debe hacer
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <p>- Compartir con la comunidad sobre los proyectos que se están adelantando o sobre los aprendizajes que se están adquiriendo alrededor de los temas de datos, analítica e interoperabilidad.</p>
+            <p>- Participar activamente y hacer preguntas sobre los temas que atañen a la comunidad.  
+            Utilizar mensajes (posts) cortos y con palabras claves que faciliten su búsqueda o referencia.</p>
+            <p>- Ser positivos al dar me gusta, compartir y comentar las conversaciones. Ofrecer críticas con respeto y tener en cuenta el tono del lenguaje usado. </p>
+            <p>-Mantener los temas privados o confidenciales en privado.</p>
+            <p>-Verificar antes de hacer una publicación, es posible que alguien ya haya publicado algo similar.</p>
+            <p>-Responder a las menciones (@mention) y etiquetar a otras personas que puedan tener información para contribuir.</p>
+        </td>
+        <td>
+            ddd
+        </td>
+    </tr>
+</table>
+
+<img src='imagenes/lineamientos-1.png' />
 
 [Únete a la comunidad aquí](https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-184wrvjno-reoqs~pCw0HTn5BLaPmM5Q)
