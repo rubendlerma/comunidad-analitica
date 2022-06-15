@@ -41,7 +41,7 @@ Generar redes de conocimiento, compartir experiencias y adquirir las capacidades
 ## Audiencia de la Comunidad de Analítica e Interoperabilidad
 En general, corresponden a las Entidades distritales: Servidores públicos y colaboradores de diferentes sectores del distrito y de áreas interdisciplinarias tales como planeación, comunicación, información, datos, investigación, funcionales, tecnología, interesados o relacionados con actividades de intercambio de información con otras entidades.
 ## Herramientas y proceso para vincularse a la Comunidad de Analítica e Interoperabilidad del Distrito 
-Se crea un espacio en Slack para la comunidad (Al dar clic llevará ala aplicación SLACK para unirte al espacio de trabajo):
+Se crea un espacio en Slack para la comunidad (Al dar clic llevará a la aplicación SLACK para unirte al espacio de trabajo):
 [https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-184wrvjno-reoqs~pCw0HTn5BLaPmM5Q](https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-1b6d204ao-npXXVtzXM6AicDesbwS0pw).
 
 Se conecta con un repositorio en GitHub para gestionar la documentación que se genere en la comunidad
