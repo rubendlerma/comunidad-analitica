@@ -81,4 +81,4 @@ Estamos comprometidos con el cumplimiento de nuestros lineamientos y alentamos a
 
 <img src='imagenes/lineamientos-1.png' />
 
-[Únete a la comunidad aquí](https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-184wrvjno-reoqs~pCw0HTn5BLaPmM5Q)
+[Únete a la comunidad aquí]([https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-184wrvjno-reoqs~pCw0HTn5BLaPmM5Q](https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-1b6d204ao-npXXVtzXM6AicDesbwS0pw))
